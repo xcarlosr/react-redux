@@ -1,0 +1,17 @@
+
+.tbProdutos table {
+    width: 100%;
+}
+
+.tbProdutos th {
+    background-color: #283cae;
+    color: #fff;
+}
+
+.tbProdutos .par {
+    background-color: #ddd;
+}
+
+.tbProdutos .impa {
+    background-color: #b9b7b7;
+}

@@ -4,7 +4,6 @@ export default function ComParametro ( props) {
 
     const notaAjustada = Math.ceil(props.nota);
 
-
     return (
         <div id="app">
             <h2>{props.titulo}</h2>
